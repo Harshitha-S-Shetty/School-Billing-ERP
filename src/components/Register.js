@@ -27,7 +27,7 @@ const Register = () => {
       {/* Mobile image */}
       <div className="block lg:hidden w-full h-64 bg-gray-100">
         <img
-          src="https://scontent.fixe3-1.fna.fbcdn.net/v/t39.30808-6/300614121_441917111312615_5282546850771544217_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=I2g-urHpEDYQ7kNvgF3P_RG&_nc_ht=scontent.fixe3-1.fna&oh=00_AYDfvFTJGj8y3Sae_lI-zs4fm8NMeeTcMvX8exShtqvdCQ&oe=66AE3F3D" 
+          src="https://hopkinsville.kctcs.edu/about/media/announcements/grad-hats.jpeg" 
           alt="Illustration"
           className="w-full h-full object-cover"
         />
@@ -113,9 +113,9 @@ const Register = () => {
       {/* Desktop image */}
       <div className="hidden lg:flex lg:w-1/2 lg:items-center lg:justify-center lg:h-full">
         <img
-          src="https://scontent.fixe3-1.fna.fbcdn.net/v/t39.30808-6/300614121_441917111312615_5282546850771544217_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=I2g-urHpEDYQ7kNvgF3P_RG&_nc_ht=scontent.fixe3-1.fna&oh=00_AYDfvFTJGj8y3Sae_lI-zs4fm8NMeeTcMvX8exShtqvdCQ&oe=66AE3F3D" 
+          src="https://hopkinsville.kctcs.edu/about/media/announcements/grad-hats.jpeg" 
           alt="Illustration"
-          className="w-full object-cover"
+          className="w-full h-full object-cover"
         />
       </div>
     </div>
